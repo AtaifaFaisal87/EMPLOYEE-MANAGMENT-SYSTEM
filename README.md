@@ -6,8 +6,4 @@ The Employee Management System is a console-based application designed to effici
 KEY FEATURES
 
 Secure Admin Authentication,Complete CRUD Operations (Add, Search, Update, Delete),Department-wise & Designation-wise Employee Listings,Comprehensive Attendance Module,Gender-wise Display & Percentage Analysis
-,Detailed Salary Module,Highest / Lowest Salary,Average Salary,Sorting by Name and Salary,Bonus and Pension Calculators
-
-Strong Input Validation
-
-File-based Data Storage for reliability
+,Detailed Salary Module(Highest / Lowest Salary,Average Salary,Sorting by Name and Salary,Bonus and Pension Calculators),Strong Input Validation,File-based Data Storage for reliability
