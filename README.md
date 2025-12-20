@@ -1,4 +1,4 @@
-# PROJECT-1ST-SEMESTE
+# EMPLOYEE-MANAGEMENT-SYSTEM
 Key Features
 >Secure Admin Authentication
 >Complete CRUD operations: Add, Search, Update, Delete
