@@ -1,5 +1,6 @@
 # EMPLOYEE-MANAGEMENT-SYSTEM
 
+![Banner](https://github.com/AtaifaFaisal87/EMPLOYEE-MANAGMENT-SYSTEM/blob/main/ems_thumbnail.png)
 The Employee Management System is a console-based application designed to efficiently manage employee records and related operations. It provides a secure platform for administrators to handle employee data, attendance, and salary details, while ensuring data reliability through file-based storage. This system is ideal for organizations looking to streamline their HR processes with a simple yet powerful tool.
 
 
